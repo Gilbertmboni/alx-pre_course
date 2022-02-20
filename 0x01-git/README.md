@@ -1,6 +1,6 @@
 My first readme
 
-## Gilly
+## Gill
 Fisrt name
 #### Gilbert
 Last name
